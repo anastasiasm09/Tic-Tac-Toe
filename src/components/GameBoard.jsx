@@ -1,3 +1,5 @@
+import "./GameBoard.css"
+
 export default function GameBoard({ onSelectSquare, board }) {
     return (
         <ol id="game-board">

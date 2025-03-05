@@ -1,3 +1,5 @@
+import "./GameOver.css"
+
 export default function GameOver({ winner, onRestart }) {
     return (
         <div id="game-over">
